@@ -16,7 +16,7 @@ Na universidade ja tive contato com outras linguagens como C++, C# e recentement
 
 Conhecimento de maior interesse:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" width="48">
+###### <img src="icons/html5-plain.svg" width="48"> <img src="icons/css3-plain.svg" width="48"> <img src="icons/javascript-plain.svg" width="48">
 
 Ferramentas de Prototipação:
 
