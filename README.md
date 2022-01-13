@@ -16,27 +16,27 @@ Na universidade ja tive contato com outras linguagens como C++, C# e recentement
 
 Conhecimento de maior interesse:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" width="48">
+###### <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" width="48">
 
 Ferramentas de Prototipação:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/sketch/sketch-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/xd/xd-plain.svg" width="48">
+###### <img src="https://github.com/devicons/devicon/raw/master/icons/sketch/sketch-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/xd/xd-plain.svg" width="48">
 
 Ferramentas de Versionamento:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="48">
+###### <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="48">
 
 Editores:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" width="48">
+###### <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" width="48">
 
 Conhecimento básico:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" width="48">
+###### <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" width="48">
 
 Em estudo:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" width="48">  |  <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/less/less-plain-wordmark.svg" width="48">  |  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" width="48">
+###### <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" width="48" style="filter: invert(1);"> <img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" width="48">  |  <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/less/less-plain-wordmark.svg" width="48">  |  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" width="48">
 
 ------
 
@@ -60,7 +60,7 @@ Em estudo:
 
 ###  :rocket: Ferramentas complementares:
 
-###### 	<img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/illustrator/illustrator-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/aftereffects/aftereffects-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/premierepro/premierepro-plain.svg" width="48"><img src="https://github.com/devicons/devicon/raw/master/icons/behance/behance-plain.svg" width="48">
+###### 	<img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/illustrator/illustrator-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/aftereffects/aftereffects-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/premierepro/premierepro-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/behance/behance-plain.svg" width="48">
 
 ------
 
