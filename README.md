@@ -20,23 +20,23 @@ Conhecimento de maior interesse:
 
 Ferramentas de Prototipação:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/sketch/sketch-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/xd/xd-plain.svg" width="48">
+###### <img src="icons/sketch-original.svg" width="48"> <img src="icons/figma-original.svg" width="48"> <img src="icons/xd-plain.svg" width="48">
 
 Ferramentas de Versionamento:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="48" style="filter: invert(75%)">
+###### <img src="icons/git-original.svg" width="48"> <img src="icons/github-original.svg" width="48">
 
 Editores:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" width="48">
+###### <img src="icons/vscode-original.svg" width="48"> <img src="icons/visualstudio-plain.svg" width="48">
 
 Conhecimento básico:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" width="48">
+###### <img src="icons/csharp-plain.svg" width="48"> <img src="icons/cplusplus-plain.svg" width="48"> <img src="icons/java-plain.svg" width="48"> <img src="icons/trello-plain.svg" width="48">
 
 Em estudo:
 
-###### <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" width="48" style="filter: invert(75%)"> <img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" width="48">  |  <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/less/less-plain-wordmark.svg" width="48">  |  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" width="48">
+###### <img src="icons/react-original.svg" width="48"> <img src="icons/typescript-original.svg" width="48"> <img src="icons/nodejs-plain.svg" width="48"> <img src="icons/express-original.svg" width="48"> <img src="icons/npm-original-wordmark.svg" width="48">  |  <img src="icons/bootstrap-plain.svg" width="48"> <img src="icons/sass-original.svg" width="48"> <img src="icons/less-plain-wordmark.svg" width="48">  |  <img src="icons/mongodb-original.svg" width="48"> <img src="icons/mysql-plain.svg" width="48"> <img src="icons/firebase-plain.svg" width="48">
 
 ------
 
@@ -60,7 +60,7 @@ Em estudo:
 
 ###  :rocket: Ferramentas complementares:
 
-###### 	<img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/illustrator/illustrator-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/raw/master/icons/aftereffects/aftereffects-plain.svg" width="48" style="filter: invert(75%)"> <img src="https://github.com/devicons/devicon/raw/master/icons/premierepro/premierepro-plain.svg" width="48" style="filter: invert(75%)"> <img src="https://github.com/devicons/devicon/raw/master/icons/behance/behance-plain.svg" width="48" style="filter: invert(75%)">
+###### 	<img src="icons/photoshop-plain.svg" width="48"> <img src="icons/illustrator-plain.svg" width="48"> <img src="icons/aftereffects-plain.svg" width="48"> <img src="icons/premierepro-plain.svg" width="48" > <img src="icons/behance-original.svg" width="48">
 
 ------
 
