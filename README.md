@@ -32,11 +32,11 @@ Editores:
 
 Conhecimento básico:
 
-###### <img src="icons/csharp-plain.svg" width="48"> <img src="icons/cplusplus-plain.svg" width="48"> <img src="icons/java-plain.svg" width="48"> <img src="icons/trello-plain.svg" width="48">
+###### <img src="icons/csharp-plain.svg" width="48"> <img src="icons/cplusplus-plain.svg" width="48"> <img src="icons/mysql-plain.svg" width="48"><img src="icons/java-plain.svg" width="48"> <img src="icons/trello-plain.svg" width="48"> 
 
 Em estudo:
 
-###### <img src="icons/react-original.svg" width="48"> <img src="icons/typescript-original.svg" width="48"> <img src="icons/nodejs-plain.svg" width="48"> <img src="icons/express-original.svg" width="48"> <img src="icons/npm-original-wordmark.svg" width="48">  :wavy_dash:  <img src="icons/bootstrap-plain.svg" width="48"> <img src="icons/sass-original.svg" width="48"> <img src="icons/less-plain-wordmark.svg" width="48">  :wavy_dash:  <img src="icons/mongodb-original.svg" width="48"> <img src="icons/mysql-plain.svg" width="48"> <img src="icons/firebase-plain.svg" width="48">
+###### <img src="icons/react-original.svg" width="48"> <img src="icons/typescript-original.svg" width="48"> <img src="icons/nodejs-plain.svg" width="48"> <img src="icons/express-original.svg" width="48"> <img src="icons/npm-original-wordmark.svg" width="48">  :wavy_dash:  <img src="icons/bootstrap-plain.svg" width="48"> <img src="icons/sass-original.svg" width="48">   :wavy_dash:  <img src="icons/mongodb-original.svg" width="48"><img src="icons/firebase-plain.svg" width="48">
 
 ------
 
@@ -55,6 +55,7 @@ Em estudo:
 - Design Gráfico
 - UX Design
 - UI Design
+- Familiaridade com metodologia Ágil
 
 ------
 
