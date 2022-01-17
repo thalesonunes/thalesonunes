@@ -2,13 +2,17 @@
 
 #  Quem sou eu?
 
-Meu nome é Thales Nunes, sou graduado em Design Gráfico e pós graduado em UX Design & Learning Experience e estou agora finalizando minha graduação em Sistemas de Informação pela UEMG.
+Após 15 anos atuando como fotógrafo e gerindo um estúdio focado no segmento de moda, encerrei as atividades em meu melhor momento profissional para me dedicar integralmente à minha transição de carreira e ao meu último ano do curso de Sistemas de Informação, porque amo e acredito muito na tecnologia e no impacto que ela pode ter na sociedade.
 
-Após 15 anos de muito comprometimento, acabo de encerrar as minhas atividades como fotógrafo de moda para me dedicar inteiramente a minha nova paixão, a carreira  de desenvolvedor front-end.
+Com formação em Design Gráfico e UX Design & Learning Experience, bem como toda minha experiência de mercado lidando com moda e design, tenho uma bagagem bastante visual e, portanto, não tive dúvidas em escolher a carreira de desenvolvedor front-end.
 
-Tenho estudado bastante HTML, CSS e Javascript. Além de estar iniciando meus estudos em React.
+Tenho me dedicado desde o início da faculdade ao aprendizado sólido de HTML, CSS e Javascript, mas tenho bastante interesse também em React e/ou Angular, além de familiaridade com outras tecnologias como Sass, Bootstrap, MySql, Git, GitHub e metodologia ágil de desenvolvimento.
 
 Na universidade ja tive contato com outras linguagens como C++, C# e recentemente um pouco de Java no Android Studio. Também tive oportunidade de lidar e desenvolver aplicações com banco de dados MySQL.
+
+Por toda minha trajetória profissional, liderando grandes equipes, seja na conceitualização ou realização de cada projeto/campanha, desenvolvi ao longo do tempo soft skills que julgo serem importantes para qualquer profissional, como: comunicação, criatividade, resiliência, empatia e proatividade.
+
+Estou em busca de novos desafios.
 
 ------
 
