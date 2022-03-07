@@ -14,33 +14,45 @@ Por toda minha trajetória profissional, liderando grandes equipes, seja na conc
 
 Estou em busca de novos desafios.
 
+
 ------
 
 ### :rocket: Hard Skills:
 
-Conhecimento de maior interesse:
+**Tecnologias principais:** 
 
-###### <img src="icons/html5-plain.svg" width="48"> <img src="icons/css3-plain.svg" width="48"> <img src="icons/javascript-plain.svg" width="48">
+JavaScript | HTML5 | CSS3 | Bootstrap
 
-Ferramentas de Prototipação:
 
-###### <img src="icons/sketch-original.svg" width="48"> <img src="icons/figma-original.svg" width="48"> <img src="icons/xd-plain.svg" width="48">
+**Design & Prototipação:**
 
-Ferramentas de Versionamento:
+Figma | Adobe XD | Photoshop | Illustrator | Design System
 
-###### <img src="icons/git-original.svg" width="48"> <img src="icons/github-original.svg" width="48">
 
-Editores:
 
-###### <img src="icons/vscode-original.svg" width="48"> <img src="icons/visualstudio-plain.svg" width="48">
+**Banco de dados:**
 
-Conhecimento básico:
+MongoDB | Sql
 
-###### <img src="icons/csharp-plain.svg" width="48"> <img src="icons/cplusplus-plain.svg" width="48"> <img src="icons/mysql-plain.svg" width="48"><img src="icons/java-plain.svg" width="48"> <img src="icons/trello-plain.svg" width="48"> 
 
-Em estudo:
 
-###### <img src="icons/react-original.svg" width="48"> <img src="icons/typescript-original.svg" width="48"> <img src="icons/nodejs-plain.svg" width="48"> <img src="icons/express-original.svg" width="48"> <img src="icons/npm-original-wordmark.svg" width="48">  :wavy_dash:  <img src="icons/bootstrap-plain.svg" width="48"> <img src="icons/sass-original.svg" width="48">   :wavy_dash:  <img src="icons/mongodb-original.svg" width="48"><img src="icons/firebase-plain.svg" width="48">
+**Outras ferramentas**
+
+Git | Github | Insomnia | NMP | Firebase | VSCode
+
+
+
+**Outros conhecimentos:**
+
+Metodologia Ágil (Scrum) | Trello | Design Gráfico | UX Design | UI Design
+
+
+
+**Em estudo:**
+
+React | Typescript | NodeJS | Sass | Bootstrap | Jest | TDD | Design Pattern
+
+
 
 ------
 
@@ -51,21 +63,7 @@ Em estudo:
 - Resiliência
 - Empatia
 - Proatividade
-
-------
-
-### :rocket: Conhecimento complementar:
-
-- Design Gráfico
-- UX Design
-- UI Design
-- Familiaridade com metodologia Ágil
-
-------
-
-###  :rocket: Ferramentas complementares:
-
-###### 	<img src="icons/photoshop-plain.svg" width="48"> <img src="icons/illustrator-plain.svg" width="48"> <img src="icons/aftereffects-plain.svg" width="48"> <img src="icons/premierepro-plain.svg" width="48" > <img src="icons/behance-original.svg" width="48">
+  
 
 ------
 
