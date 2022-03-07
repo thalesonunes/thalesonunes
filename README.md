@@ -21,7 +21,8 @@ Estou em busca de novos desafios.
 
 **Tecnologias principais:** 
 
-JavaScript | HTML5 | CSS3 | Bootstrap
+- JavaScript | HTML5 | CSS3 | Bootstrap
+
 
 
 **Design & Prototipação:**
@@ -32,25 +33,29 @@ Figma | Adobe XD | Photoshop | Illustrator | Design System
 
 **Banco de dados:**
 
-MongoDB | Sql
+- MongoDB | Sql
+
 
 
 
 **Outras ferramentas**
 
-Git | Github | Insomnia | NMP | Firebase | VSCode
+- Git | Github | Insomnia | NMP | Firebase | VSCode
+
 
 
 
 **Outros conhecimentos:**
 
-Metodologia Ágil (Scrum) | Trello | Design Gráfico | UX Design | UI Design
+- Metodologia Ágil (Scrum) | Trello | Design Gráfico | UX Design | UI Design
+
 
 
 
 **Em estudo:**
 
-React | Typescript | NodeJS | Sass | Bootstrap | Jest | TDD | Design Pattern
+- React | Typescript | NodeJS | Sass | Bootstrap | Jest | TDD | Design Pattern
+
 
 
 
