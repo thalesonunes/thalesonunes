@@ -27,7 +27,8 @@ Estou em busca de novos desafios.
 
 **Design & Prototipação:**
 
-Figma | Adobe XD | Photoshop | Illustrator | Design System
+- Figma | Adobe XD | Photoshop | Illustrator | Design System
+
 
 
 
