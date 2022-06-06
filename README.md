@@ -4,11 +4,9 @@
 
 Após 15 anos atuando como fotógrafo e gerindo um estúdio focado no segmento de moda, encerrei as atividades em meu melhor momento profissional para me dedicar integralmente à minha transição de carreira e ao meu último ano do curso de Sistemas de Informação, porque amo e acredito muito na tecnologia e no impacto que ela pode ter na sociedade.
 
-Com formação em Design Gráfico e UX Design & Learning Experience, bem como toda minha experiência de mercado lidando com moda e design, tenho uma bagagem bastante visual e, portanto, não tive dúvidas em escolher a carreira de desenvolvedor front-end.
+Com formação em Design Gráfico e UX Design & Learning Experience, bem como toda minha experiência de mercado lidando com moda e design, tenho uma bagagem bastante visual e, portanto, não tive dúvidas em escolher a carreira de desenvolvedor front-end para iniciar minha jornada na tecnologia, mas tenho bastante interesse também em tecnologias back-end e em saber como as aplicações web funcionam de ponta a ponta.
 
-Tenho me dedicado desde o início da faculdade ao aprendizado sólido de HTML, CSS e Javascript, mas tenho bastante interesse também em React e/ou Angular, além de familiaridade com outras tecnologias como Sass, Bootstrap, MySql, Git, GitHub e metodologia ágil de desenvolvimento.
-
-Na universidade ja tive contato com outras linguagens como C++, C# e recentemente um pouco de Java no Android Studio. Também tive oportunidade de lidar e desenvolver aplicações com banco de dados MySQL.
+Tenho me dedicado desde o início da faculdade ao aprendizado sólido de HTML, CSS e Javascript, mas tenho bastante interesse também em React e/ou Angular, além de familiaridade com outras tecnologias como Sass, Bootstrap, MySql, C#, Git, GitHub e também metodologia ágil de desenvolvimento. Tenho estudado, por interesse pessoal, um pouco de Java também.
 
 Por toda minha trajetória profissional, liderando grandes equipes, seja na conceitualização ou realização de cada projeto/campanha, desenvolvi ao longo do tempo soft skills que julgo serem importantes para qualquer profissional, como: comunicação, criatividade, resiliência, empatia e proatividade.
 
@@ -21,28 +19,24 @@ Estou em busca de novos desafios.
 
 **Tecnologias principais:** 
 
-- JavaScript | HTML5 | CSS3 | Bootstrap
-
-
-
-**Design & Prototipação:**
-
-- Figma | Adobe XD | Photoshop | Illustrator | Design System
+- JavaScript | HTML5 | CSS3 | Bootstrap | Sass | NodeJS | C#
 
 
 
 
 **Banco de dados:**
 
-- MongoDB | Sql
+- MongoDB | MySql
+  
 
+**Design & Prototipação:**
 
+- Figma | Adobe XD | Photoshop | Illustrator | Design System
+  
 
+**Outras ferramentas**:
 
-**Outras ferramentas**
-
-- Git | Github | Insomnia | NMP | Firebase | VSCode
-
+- Git | Github | Insomnia | NPM | Firebase | VSCode | IntelliJ 
 
 
 
@@ -52,10 +46,11 @@ Estou em busca de novos desafios.
 
 
 
+**Em estudo / Interesse:**
 
-**Em estudo:**
-
-- React | Typescript | NodeJS | Sass | Bootstrap | Jest | TDD | Design Pattern
+- BACK-END: Java | Spring | Kotlin
+- FRONT-END: Angular | React | Typescript
+- OUTROS: Jest | TDD | Design Pattern
 
 
 
