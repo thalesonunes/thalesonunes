@@ -2,75 +2,47 @@
 
 #  Quem sou eu?
 
-Após 15 anos atuando como fotógrafo e gerindo um estúdio focado no segmento de moda, encerrei as atividades em meu melhor momento profissional para me dedicar integralmente à minha transição de carreira e ao meu último ano do curso de Sistemas de Informação, porque amo e acredito muito na tecnologia e no impacto que ela pode ter na sociedade.
+Engenheiro de Software Backend com aproximadamente 3 anos de experiência projetando, desenvolvendo e mantendo sistemas críticos e de alta performance para o setor financeiro. 
 
-Com formação em Design Gráfico e UX Design & Learning Experience, bem como toda minha experiência de mercado lidando com moda e design, tenho uma bagagem bastante visual e, portanto, não tive dúvidas em escolher a carreira de desenvolvedor front-end para iniciar minha jornada na tecnologia, mas tenho bastante interesse também em tecnologias back-end e em saber como as aplicações web funcionam de ponta a ponta.
+Proficiente em Java e Kotlin, possuo domínio do ecossistema Spring (incluindo Spring Boot para arquiteturas tradicionais e Webflux para programação reativa), Kafka para sistemas distribuídos orientados a eventos, Docker, Redis para otimização e caching, entre outras tecnologias.
 
-Tenho me dedicado desde o início da faculdade ao aprendizado sólido de HTML, CSS e Javascript, mas tenho bastante interesse também em React e/ou Angular, além de familiaridade com outras tecnologias como Sass, Bootstrap, MySql, C#, Git, GitHub e também metodologia ágil de desenvolvimento. Tenho estudado, por interesse pessoal, um pouco de Java também.
+Minha experiência abrange arquitetura de microsserviços, desenvolvimento e implantação em cloud AWS (utilizando serviços como ECS, Lambda, SQS), e o ciclo completo de DevOps com Jenkins, NewRelic e Splunk. Dedico-me à construção de software de alta qualidade, aplicando princípios SOLID, Design Patterns e as melhores práticas de engenharia de software para garantir código limpo, manutenível e escalável. Atuo com metodologias ágeis, como Kanban, focando na eficiência dos fluxos de desenvolvimento e na entrega de valor.
 
-Por toda minha trajetória profissional, liderando grandes equipes, seja na conceitualização ou realização de cada projeto/campanha, desenvolvi ao longo do tempo soft skills que julgo serem importantes para qualquer profissional, como: comunicação, criatividade, resiliência, empatia e proatividade.
-
-Estou em busca de novos desafios.
-
+Comprometido com a excelência técnica e o aprendizado constante, estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias, com um interesse crescente em Inteligência Artificial e seu potencial para transformar soluções.
 
 ------
 
 ### :rocket: Hard Skills:
 
-**Tecnologias principais:** 
+**Backend Development**
 
-- JavaScript | HTML5 | CSS3 | Bootstrap | Sass | NodeJS | C#
+- Java | Kotlin | Spring Boot | Webflux | API REST | NodeJS
 
+**Dados & Messaging**
 
+- PostgreSQL | Redis | Kafka | SQS | MongoDB | MySql
 
+**Cloud & DevOps**
 
-**Banco de dados:**
+- AWS | Docker | Jenkins | ECS | Lambda | Firebase | Splunk | NewRelic
 
-- MongoDB | MySql
-  
+**Frontend Básico**
 
-**Design & Prototipação:**
+- Angular | HTML | CSS | JavaScript | Bootstrap | SCSS | React | Typescript
 
-- Figma | Adobe XD | Photoshop | Illustrator | Design System
-  
+**Design & UX**
 
-**Outras ferramentas**:
+- UI/UX Design | Figma | Design System
 
-- Git | Github | Insomnia | NPM | Firebase | VSCode | IntelliJ 
+**Outras Ferramentas e Conhecimentos**
 
-
-
-**Outros conhecimentos:**
-
-- Metodologia Ágil (Scrum) | Trello | Design Gráfico | UX Design | UI Design
-
-
-
-**Em estudo / Interesse:**
-
-- BACK-END: Java | Spring | Kotlin
-- FRONT-END: Angular | React | Typescript
-- OUTROS: Jest | TDD | Design Pattern
-
-
+- Git | Github | Insomnia | NPM | VSCode | IntelliJ | Jest | TDD | Design Pattern | Metodologias Ágeis (Scrum, Kanban) | Trello
 
 
 ------
+### :rocket: Contato
 
-### :rocket: Soft Skills:
-
-- Comunicação
-- Criatividade
-- Resiliência
-- Empatia
-- Proatividade
-  
+<a href="https://www.linkedin.com/in/thalesonunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:thales.o.nunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ------
-
-###  :rocket: Contato:
-
-Vamos conversar? 
-
-<img src="https://thalesnunes.com.br/github/whatsapp.svg" width="30"> [Whatsapp](https://api.whatsapp.com/send?phone=5535997438652) | <img src="https://thalesnunes.com.br/github/email.svg" width="30"> [E-mail](mailto:thales.o.nunes@gmail.com)
-
